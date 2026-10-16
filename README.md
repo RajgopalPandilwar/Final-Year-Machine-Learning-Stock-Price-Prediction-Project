@@ -70,4 +70,3 @@ This project is based on research papers that predict output using LSTM-based de
 
 ---
 
-*This project has been customized and maintained by Rajgopal Pandilwar.*
